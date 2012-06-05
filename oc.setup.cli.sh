@@ -52,7 +52,7 @@ echo "<?php return array (
       0 => '*',
     ),
   ),
-);" >> $PRJ_DIR/services/settings.php;
+);" >> $PRJ_DIR/services/settings.inc.php;
 
 echo "<?php
 return array (
